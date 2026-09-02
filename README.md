@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/julphikarhaque286">
+  <a href="https://github.com/julphikarhaque">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
@@ -26,7 +26,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=julphikarhaque286&style=flat-square&color=3B82F6&label=PROFILE+VIEWS"
+    src="https://komarev.com/ghpvc/?username=julphikarhaque&style=flat-square&color=3B82F6&label=PROFILE+VIEWS"
     alt="Profile views"
   />
 </p>
@@ -85,19 +85,24 @@ I enjoy turning ideas into real applications — from **design and development t
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/julphikarhaque286/julphikarhaque286/output/github-contribution-grid-snake.gif"
-    alt="GitHub contribution snake animation"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/julphikarhaque/julphikarhaque/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/julphikarhaque/julphikarhaque/gh-pages/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/julphikarhaque/julphikarhaque/gh-pages/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
-
-<p align="center">
-  <sub>Every contribution tells a story. 🟩</sub>
-</p>
-
 ---
 
 ## 🤝 Let's Connect
@@ -105,7 +110,7 @@ I enjoy turning ideas into real applications — from **design and development t
 I'm always interested in **building, learning, collaborating, and connecting with other developers**.
 
 <p align="center">
-  <a href="https://github.com/julphikarhaque286">
+  <a href="https://github.com/julphikarhaque">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"

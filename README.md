@@ -85,42 +85,6 @@ I enjoy turning ideas into real applications — from **design and development t
 
 ---
 
-## 🚀 Featured Projects
-
-A selection of projects and experiments I'm building while developing my skills.
-
-### 🎨 UI Components & Design Systems
-
-Building **reusable, customizable, and developer-friendly UI components** for modern web applications.
-
-**Focus:** React • Next.js • TypeScript • Tailwind CSS
-
----
-
-### ⚡ Full-Stack Web Applications
-
-Building modern web applications with a focus on **frontend architecture, backend APIs, databases, authentication, and deployment**.
-
-**Focus:** Next.js • React • Node.js • Express • MongoDB
-
----
-
-### 🧩 React Projects
-
-Exploring modern React patterns through practical projects involving **components, forms, state management, hooks, and reusable logic**.
-
-**Focus:** React • JavaScript • TypeScript
-
----
-
-### 🔧 Developer Experiments
-
-Small projects created to understand new technologies, experiment with ideas, and strengthen development fundamentals.
-
----
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -134,7 +98,6 @@ Small projects created to understand new technologies, experiment with ideas, an
   <sub>Every contribution tells a story. 🟩</sub>
 </p>
 
----
 ---
 
 ## 🤝 Let's Connect

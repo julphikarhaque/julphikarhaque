@@ -119,6 +119,8 @@ Small projects created to understand new technologies, experiment with ideas, an
 
 ---
 
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -128,6 +130,11 @@ Small projects created to understand new technologies, experiment with ideas, an
   />
 </p>
 
+<p align="center">
+  <sub>Every contribution tells a story. 🟩</sub>
+</p>
+
+---
 ---
 
 ## 🤝 Let's Connect

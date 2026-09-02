@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Julphikar Hoque
+# 👋 Hey, I'm Julphikar Haque
 
 ### 🚀 Full-Stack Developer | React • Next.js • TypeScript
 

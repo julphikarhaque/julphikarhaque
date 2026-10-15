@@ -35,7 +35,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science & Engineering student** and a **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
+I'm a **Full-Stack Developer** focused on building modern, scalable, and user-friendly web applications.
 
 💻 I work mainly with **React, Next.js, TypeScript, JavaScript, and Tailwind CSS**.
 
